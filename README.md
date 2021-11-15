@@ -2,7 +2,7 @@
 This is a simple script for encrypt and decrypt files and folders.
 
 ## How to use
-Clone the repo uing: `git clone [repo] `\
+Clone the repo uing: `git clone [repo] `
 
 Useage: `./ende.sh [-e or -d] [FILE LOCATION]`
 
