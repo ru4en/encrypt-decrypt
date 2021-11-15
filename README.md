@@ -1,7 +1,9 @@
 # encrypt-decrypt
-This is a simple script for encrypt and decrypt files and folders.
+This is a simple script for encrypt and decrypt folders.
 
 ## How to use
+Requiments: Bash or zsh shell, git, gpg and zip. 
+
 Clone the repo uing: `git clone [repo] `
 
 Useage: `./ende.sh [-e or -d] [FILE LOCATION]`
