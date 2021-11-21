@@ -1,10 +1,10 @@
 # encrypt-decrypt
-This is a simple script for encrypt and decrypt folders.
+This is a simple shell script I wrote for encrypt and decrypt folders. It zips the file then uses symatric encrypt the file. 
 
 ## How to use
 Requiments: Bash or zsh shell, git, gpg and zip. 
 
-Clone the repo uing: `git clone [repo] `
+Clone the repo uing: `git clone https://github.com/ru4en/encrypt-decrypt.git `
 
 Useage: `./ende.sh [-e or -d] [FILE LOCATION]`
 
